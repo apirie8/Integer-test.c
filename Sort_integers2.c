@@ -8,7 +8,7 @@
  
 void main()
 {   
-    FILE ;
+    FILE LIST;
     int array[MAXSIZE];
     int i, j, num, temp;
  
